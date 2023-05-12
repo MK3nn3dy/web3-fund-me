@@ -38,6 +38,8 @@ You'll need:
     - You can get by connecting your Metamask to Sepolia and exporting your private key
 - __An Etherscan API Key__
     - You can get this by signing up at <a href="https://etherscan.io/">Etherscan</a>.
+- __A Coin Market Cap API Key__
+    - You can get this by signing up at <a href="https://coinmarketcap.com/">Coin Market Cap</a>.
 
 You'll need to create environment variables for:
 
